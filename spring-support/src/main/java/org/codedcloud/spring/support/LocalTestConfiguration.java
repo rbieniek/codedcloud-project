@@ -19,7 +19,7 @@
  * SPDX-License-Identifier: Apache-2.0
  * License-Filename: LICENSE
  */
-package de.porsche.oso.sac.spring.support;
+package org.codedcloud.spring.support;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
